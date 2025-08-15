@@ -5,8 +5,6 @@ This repository contains solutions for multiple homework assignments completed a
 ---
 
 ## HW1 – COMPSCI 284
-[![Open In Colab](https://colab.research.google.com/github/Eeshababar/AI-in-Biology-and-Medicine/blob/main/HW1_COMPSCI284.ipynb)](https://colab.research.google.com/github/Eeshababar/AI-in-Biology-and-Medicine/blob/main/HW1_COMPSCI284.ipynb)
-
 **Highlights:**
 - Dataset: **148 data points** and **4 features**.
 - Performed exploratory data analysis and feature visualization:
